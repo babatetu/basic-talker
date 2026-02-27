@@ -1,0 +1,7 @@
+{
+  "name": "Basic Talker",
+  "description": "A minimalist, high-performance voice-first conversational AI powered by Gemini 2.5 Native Audio Live API. Experience ultra-low latency, natural human-like voice interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
